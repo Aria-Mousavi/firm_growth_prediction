@@ -1,4 +1,4 @@
-# Predictive Modeling for High-Growth Firms: A Risk-Adjusted Machine Learning Framework
+# Predictive Analytics for High-Growth Firms: A Risk-Adjusted Machine Learning Framework
 
 ## 📌 Project Executive Summary
 **The Business Challenge:** In economic development and venture capital, identifying "high-growth" firms (defined here as companies with a Compound Annual Growth Rate **(CAGR) > 20%**) is a high-stakes challenge. Standard statistical models often fail because they treat "missing a winner" and "betting on a loser" as equal mistakes.
